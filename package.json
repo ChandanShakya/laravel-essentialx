@@ -7,7 +7,7 @@
 		"type": "git",
 		"url": "https://github.com/ZXY-CC-3ag13/laravel-essentials"
 	},
-  "icon": "logo.jpeg",
+	"icon": "logo.jpeg",
 	"publisher": "ZXY-CC-3ag13",
 	"engines": {
 		"vscode": "^1.74.0"
@@ -31,14 +31,14 @@
 		"bmewburn.vscode-intelephense-client"
 	],
 	"__metadata": {
-		"id": "bef8b12d-3286-4b2c-8aed-1d88bc9db70a",
+		"id": "196cb7d4-61a7-419f-8e13-81a61d9592f6",
 		"publisherId": "b3ba6fa6-860f-43b3-8272-4c2b95af5ea5",
 		"publisherDisplayName": "ZXY-CC-3ag13",
 		"targetPlatform": "undefined",
 		"isApplicationScoped": false,
-		"updated": true,
+		"updated": false,
 		"isPreReleaseVersion": false,
-		"installedTimestamp": 1673806724603,
+		"installedTimestamp": 1673807678526,
 		"preRelease": false
 	}
 }
