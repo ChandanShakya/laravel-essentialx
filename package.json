@@ -1,32 +1,44 @@
 {
-  "name": "laravel-essentials",
-  "displayName": "Laravel Essentials",
-  "description": "This extension pack includes the extensions to get more productive for laravel development",
-  "version": "0.0.1",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/ZXY-CC-3ag13/laravel-essentials"
-  },
-  "publisher": "ZXY-CC-3ag13",
-  "engines": {
-    "vscode": "^1.74.0"
-  },
-  "categories": [
-    "Extension Packs"
-  ],
-  "extensionPack": [ 
-    "amiralizadeh9480.laravel-extra-intellisense",
-    "onecentlin.laravel-blade",
-    "shufo.vscode-blade-formatter",
-    "austenc.laravel-blade-spacer",
-    "codingyu.laravel-goto-view",
-    "ctf0.laravel-goto-controller",
-    "naoray.laravel-goto-components",
-    "ennardv.livewire-goto-updated",
-    "cierra.livewire-vscode",
-    "mikestead.dotenv",
-    "ryannaddy.laravel-artisan",
-    "formulahendry.auto-rename-tag",
-    "bmewburn.vscode-intelephense-client"
-  ]
+	"name": "laravel-essentials",
+	"displayName": "Laravel Essentials",
+	"description": "This extension pack includes the extensions to get more productive for laravel development",
+	"version": "0.0.1",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ZXY-CC-3ag13/laravel-essentials"
+	},
+  "icon": "logo.jpeg",
+	"publisher": "ZXY-CC-3ag13",
+	"engines": {
+		"vscode": "^1.74.0"
+	},
+	"categories": [
+		"Extension Packs"
+	],
+	"extensionPack": [
+		"amiralizadeh9480.laravel-extra-intellisense",
+		"onecentlin.laravel-blade",
+		"shufo.vscode-blade-formatter",
+		"austenc.laravel-blade-spacer",
+		"codingyu.laravel-goto-view",
+		"ctf0.laravel-goto-controller",
+		"naoray.laravel-goto-components",
+		"ennardv.livewire-goto-updated",
+		"cierra.livewire-vscode",
+		"mikestead.dotenv",
+		"ryannaddy.laravel-artisan",
+		"formulahendry.auto-rename-tag",
+		"bmewburn.vscode-intelephense-client"
+	],
+	"__metadata": {
+		"id": "bef8b12d-3286-4b2c-8aed-1d88bc9db70a",
+		"publisherId": "b3ba6fa6-860f-43b3-8272-4c2b95af5ea5",
+		"publisherDisplayName": "ZXY-CC-3ag13",
+		"targetPlatform": "undefined",
+		"isApplicationScoped": false,
+		"updated": true,
+		"isPreReleaseVersion": false,
+		"installedTimestamp": 1673806724603,
+		"preRelease": false
+	}
 }
