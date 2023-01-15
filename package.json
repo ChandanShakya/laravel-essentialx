@@ -1,0 +1,27 @@
+{
+  "name": "laravel-essentials",
+  "displayName": "Laravel Essentials",
+  "description": "This extension pack includes the extensions to get more productive for laravel development",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "amiralizadeh9480.laravel-extra-intellisense",
+    "onecentlin.laravel-blade",
+    "shufo.vscode-blade-formatter",
+    "austenc.laravel-blade-spacer",
+    "codingyu.laravel-goto-view",
+    "ctf0.laravel-goto-controller",
+    "naoray.laravel-goto-components",
+    "ennardv.livewire-goto-updated",
+    "cierra.livewire-vscode",
+    "mikestead.dotenv",
+    "ryannaddy.laravel-artisan",
+    "formulahendry.auto-rename-tag",
+    "bmewburn.vscode-intelephense-client"
+  ]
+}
