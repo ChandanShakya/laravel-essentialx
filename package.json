@@ -3,6 +3,10 @@
   "displayName": "Laravel Essentials",
   "description": "This extension pack includes the extensions to get more productive for laravel development",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ZXY-CC-3ag13/laravel-essentials"
+  },
   "engines": {
     "vscode": "^1.74.0"
   },
