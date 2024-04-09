@@ -1,44 +1,31 @@
 {
-	"name": "laravel-essentials",
-	"displayName": "Laravel Essentials",
+	"name": "laravel-essentialx",
+	"displayName": "Laravel Essentialx",
 	"description": "This extension pack includes the extensions to get more productive for laravel development",
 	"version": "0.0.1",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/ZXY-CC-3ag13/laravel-essentials"
+		"url": "https://github.com/ChandanShakya/laravel-essentialx"
 	},
-	"icon": "logo.jpeg",
-	"publisher": "ZXY-CC-3ag13",
+	"icon": "logo.png",
+	"publisher": "ChandanShakya",
 	"engines": {
-		"vscode": "^1.74.0"
+		"vscode": "^1.88.0"
 	},
 	"categories": [
 		"Extension Packs"
 	],
 	"extensionPack": [
+		"mikestead.dotenv",
+		"DEVSENSE.composer-php-vscode",
+		"ryannaddy.laravel-artisan",
 		"amiralizadeh9480.laravel-extra-intellisense",
 		"onecentlin.laravel-blade",
 		"shufo.vscode-blade-formatter",
+		"onecentlin.laravel5-snippets",
 		"austenc.laravel-blade-spacer",
 		"codingyu.laravel-goto-view",
 		"ctf0.laravel-goto-controller",
-		"naoray.laravel-goto-components",
-		"ennardv.livewire-goto-updated",
-		"cierra.livewire-vscode",
-		"mikestead.dotenv",
-		"ryannaddy.laravel-artisan",
-		"formulahendry.auto-rename-tag",
-		"bmewburn.vscode-intelephense-client"
-	],
-	"__metadata": {
-		"id": "196cb7d4-61a7-419f-8e13-81a61d9592f6",
-		"publisherId": "b3ba6fa6-860f-43b3-8272-4c2b95af5ea5",
-		"publisherDisplayName": "ZXY-CC-3ag13",
-		"targetPlatform": "undefined",
-		"isApplicationScoped": false,
-		"updated": false,
-		"isPreReleaseVersion": false,
-		"installedTimestamp": 1673807678526,
-		"preRelease": false
-	}
+		"naoray.laravel-goto-components"
+	]
 }
